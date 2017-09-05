@@ -36,5 +36,4 @@ $ npm start
 
 ## changelog
 
-2016.02.29 update gulp task with built-in server v.1.2.2  
-2016.02.26 first commit v.1.2.1
+2017/09/05 first commit v.1.7.0
