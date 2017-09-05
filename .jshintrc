@@ -1,0 +1,10 @@
+{
+	"jquery"      : true,
+	"browser"     : true,
+	"esnext"      : true,
+	"globals"     : {},
+	"globalstrict": true,
+	"quotmark"    : true,
+	"undef"       : false,
+	"unused"      : true
+}
